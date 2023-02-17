@@ -1,0 +1,9 @@
+/* PLACE YOUR CUSTOM STYLES IN THIS FILE */
+.caption{
+    padding-left: 5px; 
+    margin-top: 10px; 
+    color: rgb(129, 129, 129); 
+    border-left: solid; 
+font-size: small;
+    border-color: rgb(201, 201, 201);
+}
